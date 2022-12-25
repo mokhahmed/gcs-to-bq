@@ -1,0 +1,14 @@
+{
+  "BigQuery Schema": [
+    { "name": "station_id", "type": "INTEGER" },
+    { "name": "name", "type": "STRING" },
+    { "name": "short_name", "type": "STRING" },
+    { "name": "latitude", "type": "FLOAT" },
+    { "name": "longitude", "type": "FLOAT" },
+    { "name": "region_id", "type": "INTEGER" },
+    { "name": "rental_methods", "type": "STRING" },
+    { "name": "capacity", "type": "INTEGER" },
+    { "name": "last_reported", "type": "datetime" }
+  ]
+}
+

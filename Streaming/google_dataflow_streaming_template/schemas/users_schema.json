@@ -1,0 +1,9 @@
+{ 
+    "BigQuery Schema": [
+     { "name": "user_id", "type": "INTEGER" },
+     { "name": "user_type", "type": "STRING" },
+     { "name": "gender", "type": "STRING" },
+     { "name": "birth_year", "type": "INTEGER" },
+     { "name": "customer_plan", "type": "STRING" }
+    ] 
+}

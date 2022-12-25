@@ -1,0 +1,13 @@
+{ 
+    "BigQuery Schema": [
+       { "name": "bike_id", "type": "INTEGER" },
+       { "name": "user_id", "type": "INTEGER" },
+       { "name": "start_station_id", "type": "STRING" },
+       { "name": "end_station_id", "type": "STRING" },
+       { "name": "start_time", "type": "datetime" },
+       { "name": "stop_time", "type": "datetime" },
+       { "name": "trip_duration", "type": "INTEGER" }
+    ] 
+}
+
+
